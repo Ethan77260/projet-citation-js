@@ -1,0 +1,19 @@
+.card {
+    background-color: #eff3f6c7;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    padding: 100px;
+    margin-left: 35%;
+    margin-top: 9%;
+}
+h1 {
+    text-align: center;
+}
+p {
+    font: size 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
